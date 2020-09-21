@@ -1,6 +1,6 @@
 # cleanflutter
 
-Project built during the event called [Semana do Flutter | Arquitetura](https://www.youtube.com/playlist?list=PLlBnICoI-g-c_ZIHqzQjg5E4Re92-qYXn) by Flutterando.
+Project built during the event called [Semana do Flutter | Clean Architecture](https://www.youtube.com/playlist?list=PLlBnICoI-g-d-v_fWlkZX2HRgHHPnJx9s) by Flutterando.
 
 ## How to run
 
